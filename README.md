@@ -1,6 +1,6 @@
 # ESPHome Configurations
 
-![ESPHome](./static/esphome-logo.svg)
+<img alt="ESPHome" src="./static/esphome-logo.svg" width="256">
 
 My ![Home Assistant](https://img.shields.io/badge/Home-Assistant-41BDF5?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&color=rgba(65,189,245,0.3)&style=flat-square) and ![ESPHome](https://img.shields.io/badge/ESP-Home-000?logo=Esphome&logoColor=fff&labelColor=000&color=rgba(255,255,255,0.5)&style=flat-square) you can add to [![Your devices](https://img.shields.io/badge/My%20🫵-Devices-41BDF5?logo=HomeAssistant&logoColor=fff&labelColor=555&style=flat-square&color=41BDF5)](https://my.home-assistant.io/redirect/devices/) 
 
@@ -22,4 +22,6 @@ easily [install my projects onto your devices](https://git.veli.ee/esphome-confi
 
 *** 
 
-<center><sub> if you find this useful, you can send me more Tuya devices to port for ESPHome[![uwu](https://img.shields.io/github/sponsors/velijv?logo=githubsponsors&label=🫠&style=flat-square&labelColor=rgba(0,0,0,0)&color=rgba(234,74,170,0.5) "for jsut 1 doolar you can lead a por man to fish")](https://github.com/sponsors/velijv) </sub></center>
+If you find this useful, you can send me more Tuya devices to port for ESPHome 
+
+[![uwu](https://img.shields.io/github/sponsors/velijv?logo=githubsponsors&label=🫠&style=flat-square&labelColor=rgba(0,0,0,0)&color=rgba(234,74,170,0.5) "for jsut 1 doolar you can lead a por man to fish")](https://github.com/sponsors/velijv) 
