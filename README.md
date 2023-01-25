@@ -1,21 +1,25 @@
-# ESPHome Project Template
+# ESPHome Configurations
 
-This repo serves as a template for creating a new ESPHome project.
+![ESPHome](./static/esphome-logo.svg)
 
-It includes a GitHub workflow that will automatically build the configuration(s) and then deploys a simple 
-website via GitHub pages that utilises [ESP Web Tools](https://esphome.github.io/esp-web-tools/) for users to 
-easily install your project onto their device.
+My ![Home Assistant](https://img.shields.io/badge/Home-Assistant-41BDF5?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&color=rgba(65,189,245,0.3)&style=flat-square) and ![ESPHome](https://img.shields.io/badge/ESP-Home-000?logo=Esphome&logoColor=fff&labelColor=000&color=rgba(255,255,255,0.5)&style=flat-square) you can add to [![Your devices](https://img.shields.io/badge/My%20🫵-Devices-41BDF5?logo=HomeAssistant&logoColor=fff&labelColor=555&style=flat-square&color=41BDF5)](https://my.home-assistant.io/redirect/devices/) 
+
+* Some for ![ESP32](https://img.shields.io/badge/esp-32-000?logo=Esphome&logoColor=fff&labelColor=000&color=rgba(0,0,0,0.3)) 
+* and ![ESP8266](https://img.shields.io/badge/esp-8266-000?logo=Esphome&logoColor=fff&labelColor=000&color=rgba(0,0,0,0.3)&style=flat-square)
+* Some are new creations
+* Some are brain-transplanted Tuya devices 
 
 ## Instructions
 
-1. Use this repo template to [generate](https://github.com/esphome/esphome-project-template/generate) your own repository.
-   - Make sure to check `Include all branches` so that GitHub Pages is automatically enabled.
-2. Clone your new repository.
-3. Add your project specific YAML configuration(s) along with the contents of the `project-template-....yaml` files, taking note of the comments in this template file and name accordingly.
-4. 
-    a. Update [.github/workflows/publish.yml](.github/workflows/publish.yml) to contain your own YAML config filename(s).
-    b. Update [.github/workflows/ci.yml](.github/workflows/ci.yml) to contain your own YAML config filename(s).
-5. Update [static/_config.yml](static/_config.yml) to change the title, description and basic theme of the generated website.
-6. Add more content to the [static/index.md](static/index.md) file to explain your project.
-    Make sure to leave the installation code tags in place so users get the install button.
-7. Push your changes to the repository and GitHub Actions will automatically build and deploy your project.
+I utilize [ESP Web Tools](https://esphome.github.io/esp-web-tools/) for you to 
+easily [install my projects onto your devices](https://git.veli.ee/esphome-configs/).
+
+<center><a href="https://git.veli.ee/esphome-configs/"><img src="https://img.shields.io/badge/Visit-and%20Install-000?logo=Esphome&logoColor=fff&labelColor=238636&color=58a6ff" alt="Visit" width="256"></a></center>
+
+## Devices
+
+* 
+
+*** 
+
+<center><sub> if you find this useful, you can send me more Tuya devices to port for ESPHome[![uwu](https://img.shields.io/github/sponsors/velijv?logo=githubsponsors&label=🫠&style=flat-square&labelColor=rgba(0,0,0,0)&color=rgba(234,74,170,0.5) "for jsut 1 doolar you can lead a por man to fish")](https://github.com/sponsors/velijv) </sub></center>
