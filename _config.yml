@@ -1,4 +1,4 @@
 # CHANGEME: Set these variable to your liking
-title: ESPHome Project Template
+title: ESPHome Projects by [Veli](https://veli.ee)/[git](https://github.com/velijv)
 description: Powered by ESPHome and ESP Web Tools
-theme: jekyll-theme-slate
+theme: primer

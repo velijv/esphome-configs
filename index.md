@@ -1,6 +1,8 @@
 # About
 
-Add some information about your project here.
+![ESPHome](./static/esphome-logo.svg)
+
+ESPHome Projects by [Veli](https://veli.ee)/[git](https://github.com/velijv)
 
 # Installation
 
